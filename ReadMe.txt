@@ -1,9 +1,9 @@
-Recreating Project of an Patapon Based Game or Mobile Devices with Unity.
+Recreating Project of an Patapon Based Game for Mobile Devices with Unity.
 
 Pls mark **EVERY**  Commit with
 
 + = Addet
--  = Deleted 
+- = Deleted 
 o = Changed
 
 on the Beginn of the Commit
